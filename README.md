@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Martinshs
+- 👋 Hi, I’m Martin Hernandez (@Martinshs)
 - 👀 I’m interested in Partial Differential Equations, Control Theory, Machine Learning and Numerical Analisys. 
 - 📫 You can send me an email. My currently available email is martin.hernandez@fau.de
 
