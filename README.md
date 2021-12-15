@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Martinshs
-- 👀 I’m interested in Diferential Equations and Numerical Analisys. 
-- 🌱 I’m currently learning different algorithms to solve and implement some math problems. 
+- 👀 I’m interested in Partial Differential Equations, Control Theory, Machine Learning and Numerical Analisys. 
 - 📫 You can send me an email. My currently available email is martin.hernandez@fau.de
 
 <!---
