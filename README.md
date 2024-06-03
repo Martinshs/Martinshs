@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Martin Hernandez Salinas.
-- 👀 I’m interested in Partial Differential Equations, Control Theory, Machine Learning, and Numerical Analysis. 
-- 📫 You can send me an email. My currently available email is martin.hernandez@fau.de
+- 😎👋 Hi, I’m Martín Hernández.
+- 🧐☝️ I’m interested in Partial Differential Equations, Control Theory, Machine Learning, and Numerical Analysis. 
+-   📫  My currently available email is martin.hernandez@fau.de
 
 
 ## Quick links
@@ -16,6 +16,16 @@
     <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> PINNs Introductory Code for the Heat Equation (Using Tensorflow)</a> <br> <br> 
     </td>
   </tr>
+<!---    --->
+
+ <tr>
+    <td width=250px align="center"> <a href="https://github.com/Martinshs/tutorial_pytorch/tree/main"> <img src="https://github.com/Martinshs/tutorial_pytorch/blob/main/gifs/Simulation.gif" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/Martinshs/tutorial_pytorch/tree/main">Introductory PyTorch Tutorial</a> <br> <br> 
+    </td>
+  </tr>
+
+   
 </table>
 
 ## Paper codes
@@ -23,7 +33,7 @@
    <tr>
         <td width=250px align="center"> <a href="https://github.com/Martinshs/Turnpike-property"> <img src="https://github.com/Martinshs/Turnpike-property/blob/main/Images/plot_1.png" height = 150px ></a></td>
     <td width = 800px> 
-    <a href="https://github.com/Martinshs/Turnpike-property"> Code for Turnpike property visualize (using Gekko). We analyze the finite-dimensional case with and without uncertainty in the coefficients.</a> <br> <br> 
+    <a href="https://github.com/Martinshs/Turnpike-property"> Code for Turnpike Property Visualization (using Gekko). We analyze the finite-dimensional case with and without uncertainty in the coefficients.</a> <br> <br> 
     </td>
   </tr>
 </table>
