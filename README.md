@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Martin Hernandez Salinas, PhD student at FAU (Erlangen).
+- 👋 Hi, I’m Martin Hernandez Salinas.
 - 👀 I’m interested in Partial Differential Equations, Control Theory, Machine Learning, and Numerical Analysis. 
 - 📫 You can send me an email. My currently available email is martin.hernandez@fau.de
 
