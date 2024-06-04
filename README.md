@@ -1,7 +1,7 @@
 - 😎👋 Hi, I’m Martín Hernández.
 - 🧐☝️ I’m interested in Partial Differential Equations, Control Theory, Machine Learning, and Numerical Analysis. 
--   📫  My currently available email is martin.hernandez@fau.de
-
+- 📫 My currently available email is martin.hernandez@fau.de
+- 📖 [Scholar](https://scholar.google.com/citations?hl=es&authuser=2&user=uMn-o4sAAAAJ)
 
 ## Quick links
 * [Tutorials](#tutorials)
