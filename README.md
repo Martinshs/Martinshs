@@ -14,7 +14,7 @@
    <tr>
     <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> <img src="https://github.com/DCN-FAU-AvH/pinns_heat/blob/master/results/test_example_2_20231113-230629/0_video_u.gif" height = 150px ></a></td>
     <td width = 800px> 
-    <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> PINNs Introductory Code for the Heat Equation (Using Tensorflow)</a> <br> <br> 
+    <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> PINNs Introductory Code for the Heat Equation (Using Pytorch)</a> <br> <br> 
     </td>
   </tr>
 <!---    --->
