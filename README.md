@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/Martinshs/Martinshs">
+    <img src="https://github.com/Martinshs/Martinshs/blob/main/wave_1.gif" alt="" /></a>
+</p>
+
 - 😎👋 Hi, I’m Martín Hernández.
 - 🧐☝️ I’m interested in Partial Differential Equations, Control Theory, Machine Learning, and Numerical Analysis. 
 - 📫 My currently available email is martin.hernandez@fau.de
