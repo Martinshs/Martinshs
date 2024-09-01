@@ -45,6 +45,14 @@
   </tr>
 </table>
 
+<table style="padding:10px">
+   <tr>
+        <td width=320px align="center"> <a href="https://github.com/Martinshs/mini-batch_obtacle_problem/tree/main"> <img src="https://github.com/Martinshs/mini-batch_obtacle_problem/blob/main/comparation_solutions.gif" height = 140px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/Martinshs/mini-batch_obtacle_problem/tree/main"> This repository contains a code that implements the Random Minimizing Movement scheme applied to solving the obstacle problem.</a> <br> <br> 
+    </td>
+  </tr>
+</table>
 
 ## Some algorithms
 <table style="padding:10px">
