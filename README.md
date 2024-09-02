@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Martinshs/Martinshs">
-    <img src="https://github.com/Martinshs/Martinshs/blob/main/wave_1.gif"  width=1000 height=200px /></a>
+    <img src="https://github.com/Martinshs/Martinshs/blob/main/wave_1.gif"  width=1000 height=190px /></a>
 </p>
 
 - 😎👋 Hi, I’m Martín Hernández.
