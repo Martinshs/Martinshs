@@ -36,6 +36,19 @@
 </table>
 
 ## Paper codes
+
+
+<table style="padding:10px">
+   <tr>
+        <td width=250px align="center"> <a href="https://github.com/Martinshs/multiclass_UAT/tree/main"> <img src="https://github.com/Martinshs/multiclass_UAT/blob/main/example_1.gif" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/Martinshs/multiclass_UAT/tree/main"> This repository presents a code that can solve any binary classification problem using a deep neural network without the need to solve any optimization problem.</a> <br> <br> 
+    </td>
+  </tr>
+</table>
+
+
+
 <table style="padding:10px">
    <tr>
         <td width=250px align="center"> <a href="https://github.com/Martinshs/Turnpike-property"> <img src="https://github.com/Martinshs/Turnpike-property/blob/main/Images/plot_1.png" height = 150px ></a></td>
