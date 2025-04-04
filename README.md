@@ -32,7 +32,12 @@
     </td>
   </tr>
 
-   
+   <tr>
+    <td width=250px align="center"> <a href="https://github.com/Martinshs/code_parabolic/tree/main"> <img src="https://github.com/Martinshs/code_parabolic/blob/main/images/images_example_3d/plot_superposition167.png" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/Martinshs/code_parabolic/tree/main">Library to solve parabolic partial differential equations on graphs</a> <br> <br> 
+    </td>
+  </tr>
 </table>
 
 ## Paper codes
