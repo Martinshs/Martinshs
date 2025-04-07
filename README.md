@@ -8,7 +8,7 @@
 - 📫 My currently available email is martin.hernandez@fau.de
 - 📖 [Scholar](https://scholar.google.com/citations?hl=es&authuser=2&user=uMn-o4sAAAAJ)
 - 💻 [DCN-NAT-FAU](https://dcn.nat.fau.eu/martin-hernandez/) 
--  :page_with_curl: [CV](https://github.com/Martinshs/Martinshs/blob/main/CV_Martin_H_31.08.2024.pdf)
+-  :page_with_curl: [CV](https://github.com/Martinshs/Martinshs/blob/main/CV_Martin_H_07_04_25.pdf)
   
 ## Quick links
 * [Tutorials](#tutorials)
