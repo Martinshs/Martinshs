@@ -44,6 +44,15 @@
 
 <table style="padding:10px">
    <tr>
+        <td width=250px align="center"> <a href="https://github.com/Martinshs/mean_field_ants"> <img src="https://github.com/Martinshs/mean_field_ants/blob/master/ant_colony_obstacle_solved.gif" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/Martinshs/mean_field_ants"> This repository presents a simulation and control framework for collective transport, where coordinated ant-like behaviour emerges from a mean-field control policy learned from discrete data.</a> <br> <br> 
+    </td>
+  </tr>
+</table>
+
+<table style="padding:10px">
+   <tr>
         <td width=250px align="center"> <a href="https://github.com/Martinshs/multiclass_UAT/tree/main"> <img src="https://github.com/Martinshs/multiclass_UAT/blob/main/example_1.gif" height = 150px ></a></td>
     <td width = 800px> 
     <a href="https://github.com/Martinshs/multiclass_UAT/tree/main"> This repository presents a code that can solve any binary classification problem using a deep neural network without the need to solve any optimization problem.</a> <br> <br> 
