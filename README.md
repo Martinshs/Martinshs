@@ -10,34 +10,10 @@
 -  :page_with_curl: [CV](https://github.com/Martinshs/Martinshs/blob/main/CV_Martin_HS.pdf)
   
 ## Quick links
-* [Tutorials](#tutorials)
 * [Paper codes](#paper-codes)
 * [Some algorithms](#some-algorithms)
+* [Tutorials](#tutorials)
 
-## Tutorials
-<table style="padding:10px">
-   <tr>
-    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> <img src="https://github.com/DCN-FAU-AvH/pinns_heat/blob/master/results/test_example_2_20231113-230629/0_video_u.gif" height = 150px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> PINNs Introductory Code for the Heat Equation (Using Pytorch)</a> <br> <br> 
-    </td>
-  </tr>
-<!---    --->
-
- <tr>
-    <td width=250px align="center"> <a href="https://github.com/Martinshs/tutorial_pytorch/tree/main"> <img src="https://github.com/Martinshs/tutorial_pytorch/blob/main/gifs/Simulation.gif" height = 150px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/Martinshs/tutorial_pytorch/tree/main">Introductory PyTorch Tutorial</a> <br> <br> 
-    </td>
-  </tr>
-
-   <tr>
-    <td width=250px align="center"> <a href="https://github.com/Martinshs/code_parabolic/tree/main"> <img src="https://github.com/Martinshs/code_parabolic/blob/main/images/images_example_3d/plot_superposition167.png" height = 150px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/Martinshs/code_parabolic/tree/main">Library to solve parabolic partial differential equations on graphs</a> <br> <br> 
-    </td>
-  </tr>
-</table>
 
 ## Paper codes
 
@@ -89,6 +65,32 @@
     </td>
   </tr>
 </table>
+
+## Tutorials
+<table style="padding:10px">
+   <tr>
+    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> <img src="https://github.com/DCN-FAU-AvH/pinns_heat/blob/master/results/test_example_2_20231113-230629/0_video_u.gif" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> PINNs Introductory Code for the Heat Equation (Using Pytorch)</a> <br> <br> 
+    </td>
+  </tr>
+<!---    --->
+
+ <tr>
+    <td width=250px align="center"> <a href="https://github.com/Martinshs/tutorial_pytorch/tree/main"> <img src="https://github.com/Martinshs/tutorial_pytorch/blob/main/gifs/Simulation.gif" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/Martinshs/tutorial_pytorch/tree/main">Introductory PyTorch Tutorial</a> <br> <br> 
+    </td>
+  </tr>
+
+   <tr>
+    <td width=250px align="center"> <a href="https://github.com/Martinshs/code_parabolic/tree/main"> <img src="https://github.com/Martinshs/code_parabolic/blob/main/images/images_example_3d/plot_superposition167.png" height = 150px ></a></td>
+    <td width = 800px> 
+    <a href="https://github.com/Martinshs/code_parabolic/tree/main">Library to solve parabolic partial differential equations on graphs</a> <br> <br> 
+    </td>
+  </tr>
+</table>
+
 <!---
 Martinshs/Martinshs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
