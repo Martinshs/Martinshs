@@ -1,98 +1,148 @@
 <p align="center">
   <a href="https://github.com/Martinshs/Martinshs">
-    <img src="https://github.com/Martinshs/Martinshs/blob/main/wave_1.gif"  width=1000 height=190px /></a>
+    <img src="https://github.com/Martinshs/Martinshs/blob/main/wave_1.gif" width="1000" height="190px" />
+  </a>
 </p>
 
-- 😎👋 Hi, I’m Martín Hernández.
-- 🧐☝️ I’m interested in Partial Differential Equations, Control Theory, Machine Learning, and Numerical Analysis. 
-- 💻 [Personal Web page](https://martinshs.github.io/) 
-- 📖 [Scholar](https://scholar.google.com/citations?hl=es&authuser=2&user=uMn-o4sAAAAJ)
--  :page_with_curl: [CV](https://github.com/Martinshs/Martinshs/blob/main/CV_Martin_HS.pdf)
-  
-## Quick links
-* [Paper codes](#paper-codes)
-* [Some algorithms](#some-algorithms)
-* [Tutorials](#tutorials)
+<h1 align="center">Martín Hernández</h1>
 
+<p align="center">
+  <strong>Machine Learning · Reinforcement Learning · Control & Optimization · Dynamical Systems · Scientific Computing</strong>
+</p>
 
-## Paper codes
+<p align="center">
+  <a href="https://martinshs.github.io/">
+    <img src="https://img.shields.io/badge/Website-Personal_Page-informational?style=flat-square" />
+  </a>
+  <a href="https://scholar.google.com/citations?hl=es&authuser=2&user=uMn-o4sAAAAJ">
+    <img src="https://img.shields.io/badge/Google-Scholar-informational?style=flat-square" />
+  </a>
+  <a href="https://github.com/Martinshs/Martinshs/blob/main/CV_Martin_HS.pdf">
+    <img src="https://img.shields.io/badge/CV-PDF-informational?style=flat-square" />
+  </a>
+</p>
 
+I am a mathematician working at the intersection of **machine learning, reinforcement learning, control, and numerical analysis**. My research focuses on the mathematical and computational foundations of learning and decision-making in dynamical systems, with particular interests in **continuous-time reinforcement learning, mean-field control, deep learning, scientific machine learning, optimization, and PDEs**.
 
-<table style="padding:10px">
-   <tr>
-        <td width=250px align="center"> <a href="https://github.com/Martinshs/mean_field_ants"> <img src="https://github.com/Martinshs/mean_field_ants/blob/master/ant_colony_obstacle_solved.gif" height = 150px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/Martinshs/mean_field_ants"> This repository presents a simulation and control framework for collective transport, where coordinated ant-like behaviour emerges from a mean-field control policy learned from discrete data.</a> <br> <br> 
+## Research interests
+
+- **Reinforcement Learning:** continuous-time RL, policy-gradient methods, mean-field and multi-agent systems.
+- **Machine Learning:** deep learning, scientific machine learning, and neural-network approximation.
+- **Control & Optimization:** optimal and stochastic control, optimization, and learning-based control.
+- **Mathematical Foundations:** dynamical systems, numerical analysis, and partial differential equations.
+
+## Selected Research Projects
+
+<table>
+  <tr>
+    <td width="250px" align="center">
+      <a href="https://github.com/Martinshs/mean_field_ants">
+        <img src="https://github.com/Martinshs/mean_field_ants/blob/master/ant_colony_obstacle_solved.gif" height="145px">
+      </a>
+    </td>
+    <td width="800px">
+      <a href="https://github.com/Martinshs/mean_field_ants"><strong>Mean-Field RL for Collective Transport</strong></a>
+      <br><br>
+      Simulation and control of collective transport, where coordinated behavior emerges from a mean-field control policy learned from discrete-time data.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="250px" align="center">
+      <a href="https://github.com/Martinshs/multiclass_UAT">
+        <img src="https://github.com/Martinshs/multiclass_UAT/blob/main/example_1.gif" height="145px">
+      </a>
+    </td>
+    <td width="800px">
+      <a href="https://github.com/Martinshs/multiclass_UAT"><strong>Constructive Neural Classification</strong></a>
+      <br><br>
+      A constructive neural-network approach to classification that avoids standard optimization-based training.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="250px" align="center">
+      <a href="https://github.com/Martinshs/Turnpike-property">
+        <img src="https://github.com/Martinshs/Turnpike-property/blob/main/Images/plot_1.png" height="145px">
+      </a>
+    </td>
+    <td width="800px">
+      <a href="https://github.com/Martinshs/Turnpike-property"><strong>Turnpike in Optimal Control</strong></a>
+      <br><br>
+      Numerical experiments illustrating the turnpike phenomenon in finite-dimensional optimal control, with and without uncertainty in the model coefficients.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="250px" align="center">
+      <a href="https://github.com/Martinshs/mini-batch_obtacle_problem">
+        <img src="https://github.com/Martinshs/mini-batch_obtacle_problem/blob/main/comparation_solutions.gif" height="140px">
+      </a>
+    </td>
+    <td width="800px">
+      <a href="https://github.com/Martinshs/mini-batch_obtacle_problem"><strong>Random Minimizing Movements</strong></a>
+      <br><br>
+      FEniCS implementation of a randomized minimizing-movement scheme for the obstacle problem.
     </td>
   </tr>
 </table>
 
-<table style="padding:10px">
-   <tr>
-        <td width=250px align="center"> <a href="https://github.com/Martinshs/multiclass_UAT/tree/main"> <img src="https://github.com/Martinshs/multiclass_UAT/blob/main/example_1.gif" height = 150px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/Martinshs/multiclass_UAT/tree/main"> This repository presents a code that can solve any binary classification problem using a deep neural network without the need to solve any optimization problem.</a> <br> <br> 
+## Algorithms & Numerical Methods
+
+<table>
+  <tr>
+    <td width="250px" align="center">
+      <a href="https://github.com/Martinshs/Algorithms">
+        <img src="https://github.com/Martinshs/Algorithms/blob/main/Floyd_Algorithm/Lloyd_algorithm_P350_S6_Dim2x2_I200_N8.gif" height="145px">
+      </a>
     </td>
-  </tr>
-</table>
-
-
-
-<table style="padding:10px">
-   <tr>
-        <td width=250px align="center"> <a href="https://github.com/Martinshs/Turnpike-property"> <img src="https://github.com/Martinshs/Turnpike-property/blob/main/Images/plot_1.png" height = 150px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/Martinshs/Turnpike-property"> Code for Turnpike Property Visualization (using Gekko). We analyze the finite-dimensional case with and without uncertainty in the coefficients.</a> <br> <br> 
-    </td>
-  </tr>
-</table>
-
-<table style="padding:10px">
-   <tr>
-        <td width=320px align="center"> <a href="https://github.com/Martinshs/mini-batch_obtacle_problem/tree/main"> <img src="https://github.com/Martinshs/mini-batch_obtacle_problem/blob/main/comparation_solutions.gif" height = 140px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/Martinshs/mini-batch_obtacle_problem/tree/main"> This repository contains a code that implements the Random Minimizing Movement scheme to solve the obstacle problem (using FEniCS).</a> <br> <br> 
-    </td>
-  </tr>
-</table>
-
-## Some algorithms
-<table style="padding:10px">
-   <tr>
-        <td width=250px align="center"> <a href="https://github.com/Martinshs/Algorithms/tree/main"> <img src="https://github.com/Martinshs/Algorithms/blob/main/Floyd_Algorithm/Lloyd_algorithm_P350_S6_Dim2x2_I200_N8.gif" height = 150px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/Martinshs/Algorithms/tree/main"> In this repository, we illustrate a code for Lloyd's algorithm.</a> <br> <br> 
+    <td width="800px">
+      <a href="https://github.com/Martinshs/Algorithms"><strong>Lloyd's Algorithm</strong></a>
+      <br><br>
+      Implementation and visualization of Lloyd's iterative algorithm.
     </td>
   </tr>
 </table>
 
 ## Tutorials
-<table style="padding:10px">
-   <tr>
-    <td width=250px align="center"> <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> <img src="https://github.com/DCN-FAU-AvH/pinns_heat/blob/master/results/test_example_2_20231113-230629/0_video_u.gif" height = 150px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/DCN-FAU-AvH/pinns_heat"> PINNs Introductory Code for the Heat Equation (Using Pytorch)</a> <br> <br> 
+
+<table>
+  <tr>
+    <td width="250px" align="center">
+      <a href="https://github.com/DCN-FAU-AvH/pinns_heat">
+        <img src="https://github.com/DCN-FAU-AvH/pinns_heat/blob/master/results/test_example_2_20231113-230629/0_video_u.gif" height="145px">
+      </a>
+    </td>
+    <td width="800px">
+      <a href="https://github.com/DCN-FAU-AvH/pinns_heat"><strong>PINNs for the Heat Equation</strong></a>
+      <br><br>
+      Introductory PyTorch implementation of physics-informed neural networks for the heat equation.
     </td>
   </tr>
-<!---    --->
 
- <tr>
-    <td width=250px align="center"> <a href="https://github.com/Martinshs/tutorial_pytorch/tree/main"> <img src="https://github.com/Martinshs/tutorial_pytorch/blob/main/gifs/Simulation.gif" height = 150px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/Martinshs/tutorial_pytorch/tree/main">Introductory PyTorch Tutorial</a> <br> <br> 
+  <tr>
+    <td width="250px" align="center">
+      <a href="https://github.com/Martinshs/tutorial_pytorch">
+        <img src="https://github.com/Martinshs/tutorial_pytorch/blob/main/gifs/Simulation.gif" height="145px">
+      </a>
+    </td>
+    <td width="800px">
+      <a href="https://github.com/Martinshs/tutorial_pytorch"><strong>PyTorch Fundamentals</strong></a>
+      <br><br>
+      Introductory examples covering the basic concepts and workflow of PyTorch.
     </td>
   </tr>
 
-   <tr>
-    <td width=250px align="center"> <a href="https://github.com/Martinshs/code_parabolic/tree/main"> <img src="https://github.com/Martinshs/code_parabolic/blob/main/images/images_example_3d/plot_superposition167.png" height = 150px ></a></td>
-    <td width = 800px> 
-    <a href="https://github.com/Martinshs/code_parabolic/tree/main">Library to solve parabolic partial differential equations on graphs</a> <br> <br> 
+  <tr>
+    <td width="250px" align="center">
+      <a href="https://github.com/Martinshs/code_parabolic">
+        <img src="https://github.com/Martinshs/code_parabolic/blob/main/images/images_example_3d/plot_superposition167.png" height="145px">
+      </a>
+    </td>
+    <td width="800px">
+      <a href="https://github.com/Martinshs/code_parabolic"><strong>Parabolic PDEs on Graphs</strong></a>
+      <br><br>
+      Numerical library for solving parabolic partial differential equations on network and graph domains.
     </td>
   </tr>
 </table>
-
-<!---
-Martinshs/Martinshs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
