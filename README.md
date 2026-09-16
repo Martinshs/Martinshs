@@ -47,6 +47,20 @@ I am a mathematician working at the intersection of **machine learning, reinforc
     </td>
   </tr>
 
+
+<tr>
+  <td width="250px" align="center">
+    <a href="ANTONIO_GITHUB_REPOSITORY">
+      <img src="https://github.com/antonioalvarezl/2026-CTDropout-RBM/blob/main/assets/rnode_header.gif" height="145px">
+    </a>
+  </td>
+  <td width="800px">
+    <a href="ANTONIO_GITHUB_REPOSITORY"><strong>Continuous-Time Dropout</strong></a>
+    <br><br>
+Joint work with <a href="https://github.com/antonioalvarezl">Antonio Álvarez-López</a> on continuous-time dropout for Neural ODEs using random batch methods.  </td>
+</tr>
+
+
   <tr>
     <td width="250px" align="center">
       <a href="https://github.com/Martinshs/multiclass_UAT">
@@ -116,7 +130,7 @@ I am a mathematician working at the intersection of **machine learning, reinforc
     <td width="800px">
       <a href="https://github.com/DCN-FAU-AvH/pinns_heat"><strong>PINNs for the Heat Equation</strong></a>
       <br><br>
-      Introductory PyTorch implementation of physics-informed neural networks for the heat equation.
+      Joint work with <a href="https://github.com/iziqi">Ziqi Wang</a>. Introductory PyTorch implementation of physics-informed neural networks for the heat equation.
     </td>
   </tr>
 
