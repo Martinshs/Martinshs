@@ -41,7 +41,7 @@ I am a mathematician working at the intersection of **machine learning, reinforc
       </a>
     </td>
     <td width="800px">
-      <a href="https://github.com/Martinshs/mean_field_ants"><strong>Mean-Field RL for Collective Transport</strong></a>
+      <a href="https://github.com/Martinshs/mean_field_ants"><strong>Mean-Field Reinforcement Learning for Collective Transport</strong></a>
       <br><br>
       Simulation and control of collective transport, where coordinated behavior emerges from a mean-field control policy learned from discrete-time data.
     </td>
