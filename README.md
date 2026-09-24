@@ -50,12 +50,12 @@ I am a mathematician working at the intersection of **machine learning, reinforc
 
 <tr>
   <td width="250px" align="center">
-    <a href="ANTONIO_GITHUB_REPOSITORY">
+    <a href="https://github.com/antonioalvarezl/2026-CTDropout-RBM">
       <img src="https://github.com/antonioalvarezl/2026-CTDropout-RBM/blob/main/assets/rnode_header.gif" height="145px">
     </a>
   </td>
   <td width="800px">
-    <a href="ANTONIO_GITHUB_REPOSITORY"><strong>Continuous-Time Dropout</strong></a>
+    <a href="https://github.com/antonioalvarezl/2026-CTDropout-RBM"><strong>Continuous-Time Dropout</strong></a>
     <br><br>
 Joint work with <a href="https://github.com/antonioalvarezl">Antonio Álvarez-López</a> on continuous-time dropout for Neural ODEs using random batch methods.  </td>
 </tr>
