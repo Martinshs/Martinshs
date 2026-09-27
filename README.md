@@ -37,7 +37,7 @@ I am a mathematician working at the intersection of **machine learning, reinforc
   <tr>
     <td width="250px" align="center">
       <a href="https://github.com/Martinshs/mean_field_ants">
-        <img src="https://github.com/Martinshs/mean_field_ants/blob/master/ant_colony_obstacle_solved.gif" height="145px">
+        <img src="https://github.com/Martinshs/mean_field_ants/blob/master/ant_colony_mf_phibe_ppo_simple_iter18_T10.gif" height="145px">
       </a>
     </td>
     <td width="800px">
