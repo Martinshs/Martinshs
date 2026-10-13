@@ -34,6 +34,22 @@ I am a mathematician working at the intersection of **machine learning, reinforc
 ## Selected Research Projects
 
 <table>
+
+<tr>
+  <td width="250px" align="center">
+    <a href="https://github.com/Martinshs/RBM_on_power_networks">
+      <img src="https://raw.githubusercontent.com/Martinshs/RBM_on_power_networks/main/ieee9_full_vs_rbm_thumbnail.gif" height="145px">
+    </a>
+  </td>
+  <td width="800px">
+    <a href="https://github.com/Martinshs/RBM_on_power_networks"><strong>Random Batch Approximation for Power Networks</strong></a>
+    <br><br>
+    Simulation of transient dynamics in a power network, comparing the full generator interactions with a Random Batch approximation that activates only a small subset at each time step.
+  </td>
+</tr>
+
+
+  
   <tr>
     <td width="250px" align="center">
       <a href="https://github.com/Martinshs/mean_field_ants">
